@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @karanWD
-- 👀 I’m interested in React
-- 🌱 I’m currently learning Nextjs
+- 👨🏽‍💻 I’m Next.js Developer
 - 📫 How to reach me :  karanshamspirzadeh@gmail.com
 
 <!---
