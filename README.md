@@ -53,3 +53,5 @@
 </div>
 
 ###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=karanwd)](https://github.com/ryo-ma/github-profile-trophy)
