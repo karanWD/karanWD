@@ -54,4 +54,4 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=karanwd&theme=onedark&rank=-C,-B&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=karanwd&theme=onedark&rank=-C,-Unknown&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
